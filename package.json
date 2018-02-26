@@ -1,0 +1,13 @@
+{
+  "name": "yarn-demo",
+  "version": "1.0.0",
+  "description": "Yarn demo from technospective",
+  "main": "index.js",
+  "repository": "git@github.com:batfink/yarn-demo",
+  "author": "Victor Nystad",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+      "packages/*"
+  ]
+}
